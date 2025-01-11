@@ -25,3 +25,7 @@ pip install requests streamlit qrcode
 
 streamlit run main.py
 ```
+
+## View Example
+
+In this site in the Streamlit Deploy you can see the project running: [Convert BRL to BTC](https://convert-brl-btc-market.streamlit.app/)
