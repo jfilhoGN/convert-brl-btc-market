@@ -7,7 +7,7 @@ A simple Python tool to convert Brazilian Real (BRL) to Bitcoin (BTC) using real
 ## Features
 
 - **Real-time Conversion**: Fetches the latest BTC/BRL exchange rate from the CoinGecko API.
-- **Easy-to-Use**: Simple command-line interface for quick conversions.
+- **Easy-to-Use**: Simple interface using Streamlit to view the convert values and create a QRCode using your public wallet key.
 - **Lightweight**: Minimal dependencies and fast execution.
 
 ---
