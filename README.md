@@ -17,7 +17,6 @@ A simple Python tool to convert Brazilian Real (BRL) to Bitcoin (BTC) using real
 Before running the project, ensure you have the following installed:
 
 - [Python 3.x](https://www.python.org/downloads/)
-- `requests` library (for making API calls)
 
 Install the required library using pip:
 
